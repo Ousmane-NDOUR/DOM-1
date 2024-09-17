@@ -1,0 +1,14 @@
+.fa-heart.liked {
+    color: red;
+  }
+  
+  .quantity {
+    font-weight: bold;
+    margin: 0 10px;
+  }
+  
+  .total-price {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
